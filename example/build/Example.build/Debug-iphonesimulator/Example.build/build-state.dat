@@ -1,605 +1,0 @@
-TExample
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Info.plist Example/Example-Info.plist
-cProcessPCH /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.pth Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o /Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o /Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example normal i386
-cGenerateDSYMFile /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app.dSYM /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example
-cCopyStringsFile /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.strings
-cCompileXIB /Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/PXRViewController.xib
-cCpResource Example/Default.png build/Debug-iphonesimulator/Example.app/Default.png
-cCpResource Example/Default-568h@2x.png build/Debug-iphonesimulator/Example.app/Default-568h@2x.png
-cCpResource Example/Default@2x.png build/Debug-iphonesimulator/Example.app/Default@2x.png
-cTouch /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
-c0000000051C106260000000000000110
-t1371604518
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000516325BE0000000000228FE0
-t1365452222
-s2265056
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000516325BF00000000003DDFA0
-t1365452223
-s4054944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c00000000516325BF00000000000015F7
-t1365452223
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c00000000516325C00000000000000E8D
-t1365452224
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000516325C10000000000AB6230
-t1365452225
-s11231792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
-c00000000516325C60000000000001B73
-t1365452230
-s7027
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.h
-c0000000051EEBCF60000000000000B2D
-t1374600438
-s2861
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.m
-c0000000051EEBC7B0000000000001C06
-t1374600315
-s7174
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Default-568h@2x.png
-c000000005112E13A00000000000048A2
-t1360191802
-s18594
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Default.png
-c000000005112E13A000000000000198C
-t1360191802
-s6540
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Default@2x.png
-c000000005112E13A0000000000003EEB
-t1360191802
-s16107
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Example-Prefix.pch
-c0000000051EEC5570000000000000137
-t1374602583
-s311
-i<Availability.h>
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.h
-c0000000051EEC5A700000000000000ED
-t1374602663
-s237
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.m
-c0000000051EEC5D2000000000000038A
-t1374602706
-s906
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.h
-c0000000051EEC8390000000000000170
-t1374603321
-s368
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.m
-c0000000051EECABF00000000000007CE
-t1374603967
-s1998
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/InfoPlist.strings
-c0000000051EEC557000000000000002D
-t1374602583
-s45
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/PXRViewController.xib
-c0000000051EEC8190000000000003A1C
-t1374603289
-s14876
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/main.m
-c0000000051EEC5570000000000000152
-t1374602583
-s338
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app.dSYM
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Default-568h@2x.png
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Default.png
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Default@2x.png
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Info.plist
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/PkgInfo
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/en.lproj/PXRViewController.nib
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example.LinkFileList
-c0000000051EEC9CC000000000000027B
-t1374603724
-s635
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m
-c0000000051EEBC7B0000000000001C06
-t1374600315
-s7174
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/Default-568h@2x.png
-c000000005112E13A00000000000048A2
-t1360191802
-s18594
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/Default.png
-c000000005112E13A000000000000198C
-t1360191802
-s6540
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/Default@2x.png
-c000000005112E13A0000000000003EEB
-t1360191802
-s16107
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/Example-Prefix.pch
-c0000000051EEC5570000000000000137
-t1374602583
-s311
-i<Availability.h>
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.h
-c0000000051EEC5A700000000000000ED
-t1374602663
-s237
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m
-c0000000051EEC5D2000000000000038A
-t1374602706
-s906
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.h
-c0000000051F1C57400000000000001B9
-t1374799220
-s441
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.m
-c0000000051F1C57B000000000000078B
-t1374799227
-s1931
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/InfoPlist.strings
-c0000000051EEC557000000000000002D
-t1374602583
-s45
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/PXRViewController.xib
-c0000000051F1C4B000000000000039F0
-t1374799024
-s14832
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m
-c0000000051EEC5570000000000000152
-t1374602583
-s338
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app
-t1374798974
-s306
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app.dSYM
-t1374798953
-s102
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Default-568h@2x.png
-t1374603724
-s18594
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Default.png
-t1374603724
-s6540
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Default@2x.png
-t1374603724
-s16107
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example
-t1374798953
-s52124
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Info.plist
-t1374603724
-s798
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/PkgInfo
-t1374603724
-s8
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings
-t1374603724
-s42
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/en.lproj/PXRViewController.nib
-t1374798974
-s2226
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example.LinkFileList
-c0000000051F1C468000000000000027B
-t1374798952
-s635
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o
-t1374798953
-s92144
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o
-t1374798953
-s47712
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o
-t1374798953
-s90316
-
-N/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o
-t1374798953
-s3360
-
-N/var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.pth
-t1374798953
-s4678440
-
-N/var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch.pth
-t2
-s0
-
-NExample/Example-Info.plist
-c0000000051EEC5570000000000000496
-t1374602583
-s1174
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.m
-r0
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.m
-r0
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.m
-r0
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/main.m
-r0
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m
-r0
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m
-r0
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.m
-r0
-
-CBuild AST from /Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0e49d1fefca1b741^266ed1fefca1b741^---0#1#0#--18"Check dependencies36"22621E22-58FC-4BD2-B5E9-DCB194E78A3F-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396296524.521012
-e396296524.609322
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.m4985854c019fb741^61fd9b4c019fb741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.m0000000000000000^3802"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o Example/PXRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.dia -c /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRAppDelegate.m -o /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o36"B9D57755-BB19-46A5-8067-946FC08D98F6-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396492030.836749
-e396492030.883038
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o
-x/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m9049d6fefca1b741^520ee2fefca1b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m0000000000000000^3802"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o Example/PXRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.dia -c /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRAppDelegate.m -o /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRAppDelegate.o36"5B46C5EA-F4FF-4A22-BB37-74632ED2219A-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o /Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396296524.521022
-e396296524.625630
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.m698d854c019fb741^1729a04c019fb741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.m0000000000000000^3842"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o ../source/PXRContentDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.dia -c /Users/pixelrevision/Projects/personal/content_downloader/Example/../source/PXRContentDownloader.m -o /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o36"1ADF61E1-F4CC-47E2-BBA0-5EBFEB5FD652-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o /Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396491753.165381
-e396491753.215942
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o
-x/Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m59692ae9fba1b741^844737e9fba1b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m0000000000000000^3842"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o ../source/PXRContentDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.dia -c /Users/pixelrevision/Projects/personal/content_downloader/example/../source/PXRContentDownloader.m -o /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRContentDownloader.o36"9CAFFF1D-E223-4A8E-9FE9-5278561D671B-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396296524.521004
-e396296524.611816
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.m3b8c854c019fb741^b69f9c4c019fb741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.m0000000000000000^3820"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o Example/PXRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.dia -c /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/PXRViewController.m -o /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o36"C77216FA-2FAA-43F5-8FAC-B7362822715C-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396492030.836773
-e396492030.885506
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o
-x/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.mf14ad6fefca1b741^a7b0e2fefca1b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.m0000000000000000^3820"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o Example/PXRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.dia -c /Users/pixelrevision/Projects/personal/content_downloader/example/Example/PXRViewController.m -o /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/PXRViewController.o36"4874900C-7B20-4673-B7B7-6FF569AEECC1-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396296524.521018
-e396296524.602505
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/main.mcb86854c019fb741^713d9a4c019fb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/main.m0000000000000000^3742"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.dia -c /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/main.m -o /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o36"9039140D-3B9B-4CA4-A7C6-90C282165404-
-
-CCompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o /Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396491753.165355
-e396491753.189086
-r1
-xCompileC
-xbuild/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o
-x/Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m6e682ae9fba1b741^8c6730e9fba1b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m0000000000000000^3742"CompileC build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator -include /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch -MMD -MT dependencies -MF /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.dia -c /Users/pixelrevision/Projects/personal/content_downloader/example/Example/main.m -o /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o36"0F941417-C7A7-402D-80CF-97E64F397F5C-
-
-CCompileXIB /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/PXRViewController.xib
-s396296524.796937
-e396296524.984990
-r1
-xCompileXIB
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/PXRViewController.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/PXRViewController.xiba130cc4c019fb741^a228fc4c019fb741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/PXRViewController.xib0000000000000000^1004"CompileXIB Example/en.lproj/PXRViewController.xib    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/en.lproj/PXRViewController.nib /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/PXRViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"19A71FCE-A16D-429D-A513-2DDF2D71FAD9-
-
-CCompileXIB /Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/PXRViewController.xib
-s396492030.942868
-e396492031.397053
-r1
-xCompileXIB
-x/Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/PXRViewController.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/PXRViewController.xib0d70f1fefca1b741^12a565fffca1b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/PXRViewController.xib0000000000000000^1004"CompileXIB Example/en.lproj/PXRViewController.xib    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/en.lproj/PXRViewController.nib /Users/pixelrevision/Projects/personal/content_downloader/example/Example/en.lproj/PXRViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"9BEC5DA0-3337-436A-8567-5A0C2A20B620-
-
-CCopyStringsFile /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.strings
-s396296524.796989
-e396296524.819913
-r1
-xCopyStringsFile
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings
-xExample/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Example/en.lproj/InfoPlist.strings522bcc4c019fb741^9fe5d14c019fb741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/en.lproj/InfoPlist.strings0000000000000000^629"CopyStringsFile build/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.strings    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/en.lproj -- Example/en.lproj/InfoPlist.strings36"1EEDF513-E8C4-4C3B-BB2E-EDDA1361EDFD-
-
-CCopyStringsFile /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.strings
-r0
-
-CCpResource Example/Default-568h@2x.png build/Debug-iphonesimulator/Example.app/Default-568h@2x.png
-s396296524.796948
-e396296524.799466
-r1
-xCpResource
-xExample/Default-568h@2x.png
-xbuild/Debug-iphonesimulator/Example.app/Default-568h@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/Example.app/Default-568h@2x.png1c28cc4c019fb741^dfa9cc4c019fb741^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Default-568h@2x.png000000000080d041^685"CpResource "Example/Default-568h@2x.png" "build/Debug-iphonesimulator/Example.app/Default-568h@2x.png"    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Default-568h@2x.png" /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app36"E446E269-2822-492D-811C-A9AD4EC844D5-
-
-CCpResource Example/Default.png build/Debug-iphonesimulator/Example.app/Default.png
-s396296524.796930
-e396296524.800478
-r1
-xCpResource
-xExample/Default.png
-xbuild/Debug-iphonesimulator/Example.app/Default.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/Example.app/Default.png2c28cc4c019fb741^eeebcc4c019fb741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Default.png000000000080d041^655"CpResource Example/Default.png build/Debug-iphonesimulator/Example.app/Default.png    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Default.png /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app36"CC095698-7497-469D-907E-494A9A4070E1-
-
-CCpResource Example/Default@2x.png build/Debug-iphonesimulator/Example.app/Default@2x.png
-s396296524.796984
-e396296524.801488
-r1
-xCpResource
-xExample/Default@2x.png
-xbuild/Debug-iphonesimulator/Example.app/Default@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/Example.app/Default@2x.pngcc2acc4c019fb741^1f2ecd4c019fb741^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Default@2x.png000000000080d041^670"CpResource "Example/Default@2x.png" "build/Debug-iphonesimulator/Example.app/Default@2x.png"    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Default@2x.png" /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app36"53C79316-130B-489B-BC3D-2E1F8D0D1103-
-
-CGenerateDSYMFile /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app.dSYM /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example
-s396296524.755793
-e396296524.785688
-r1
-xGenerateDSYMFile
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app.dSYM
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Generate /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app.dSYMec8ac14c019fb741^a722c94c019fb741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app.dSYM000000000080d041^706"GenerateDSYMFile build/Debug-iphonesimulator/Example.app.dSYM build/Debug-iphonesimulator/Example.app/Example    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example -o /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app.dSYM36"43563C4B-17EB-46B1-9F29-EB8898A22B8D-
-
-CGenerateDSYMFile /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app.dSYM /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example
-s396492030.918846
-e396492030.934691
-r1
-xGenerateDSYMFile
-x/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app.dSYM
-x/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Generate /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app.dSYM6b45ebfefca1b741^3d48effefca1b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app.dSYM/0000000000000000^706"GenerateDSYMFile build/Debug-iphonesimulator/Example.app.dSYM build/Debug-iphonesimulator/Example.app/Example    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example -o /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app.dSYM36"10FC387D-8D1A-416D-BFEB-35E9D6F0DB29-
-
-CLd /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example normal i386
-s396296524.632092
-e396296524.748961
-r1
-xLd
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example68e6a14c019fb741^d8bbbf4c019fb741^---0#0#0#--1282"Ld build/Debug-iphonesimulator/Example.app/Example normal i386    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator -F/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator -filelist /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Example36"DE7DD4F2-07FF-462E-B39A-4FC5C5BD053D-
-
-CLd /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example normal i386
-s396492030.892190
-e396492030.912642
-r1
-xLd
-x/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example0074e4fefca1b741^a5a2e9fefca1b741^---0#0#0#--1282"Ld build/Debug-iphonesimulator/Example.app/Example normal i386    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator -F/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator -filelist /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Example36"76D59BCC-C3B4-4ACD-B748-A55299F9BD56-
-
-CProcessInfoPlistFile /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Info.plist Example/Example-Info.plist
-s396296524.162820
-e396296524.165915
-r1
-xProcessInfoPlistFile
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Info.plist
-xExample/Example-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process Example/Example-Info.plist6ec2294c019fb741^f8a92a4c019fb741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Example-Info.plist0000000000000000^731"ProcessInfoPlistFile build/Debug-iphonesimulator/Example.app/Info.plist Example/Example-Info.plist    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Example/Example-Info.plist -genpkginfo /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app/Info.plist36"6DFF87EF-C32E-4F8A-9BD3-21A2583A0419-
-
-CProcessInfoPlistFile /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app/Info.plist Example/Example-Info.plist
-r0
-
-CProcessPCH /Users/pixelrevision/Library/Developer/Xcode/DerivedData/Example-bbseagxxonmvqjgdkpcwhoepfiup/Index/PrecompiledHeaders/Example-Prefix-gisclfwcosiditfheeubshjwzqda_ast/Example-Prefix.pch.pth Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/pixelrevision/Library/Developer/Xcode/DerivedData/Example-fqzqhrmoyviigdhjcldetdynznjt/Index/PrecompiledHeaders/Example-Prefix-dhbazjjlmqulkncitsclolrqmnpt_ast/Example-Prefix.pch.pth Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.pth Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396491752.950493
-e396491753.158436
-r1
-xProcessPCH
-x/var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.pth
-xExample/Example-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Example/Example-Prefix.pch5665f3e8fba1b741^bd8e28e9fba1b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/example/Example/Example-Prefix.pch0000000000000000^3719"ProcessPCH /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.pth Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.dia -c /Users/pixelrevision/Projects/personal/content_downloader/example/Example/Example-Prefix.pch -o /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-bzpxnxfxoextoqedhjugnsmctarr/Example-Prefix.pch.d36"5F5A48C3-8BC4-4B99-A76E-3A7CEFB4C40C-
-
-CProcessPCH /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch.pth Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s396296524.177087
-e396296524.514097
-r1
-xProcessPCH
-x/var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch.pth
-xExample/Example-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Example/Example-Prefix.pch53cf2e4c019fb741^899b834c019fb741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Example-Prefix.pch0000000000000000^3719"ProcessPCH /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch.pth Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch.dia -c /Users/pixelrevision/Projects/personal/content_downloader/Example/Example/Example-Prefix.pch -o /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6s/qtg1bbp91q1fgyyz_fdrjk4m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Example-Prefix-cjkynhlwsjkqcqgxqxmgulzmkewm/Example-Prefix.pch.d36"20362248-A26A-43A7-B36C-7559325FAA5C-
-
-CTouch /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app
-s396296524.992962
-e396296524.999139
-r1
-xTouch
-x/Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app1746fe4c019fb741^b4c7ff4c019fb741^---0#0#0#--442"Touch build/Debug-iphonesimulator/Example.app    cd /Users/pixelrevision/Projects/personal/content_downloader/Example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pixelrevision/Projects/personal/content_downloader/Example/build/Debug-iphonesimulator/Example.app36"F9F18281-0D5D-4813-8BBB-E5A03245AC6D-
-
-CTouch /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app
-s396492031.405090
-e396492031.410699
-r1
-xTouch
-x/Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.appb9c267fffca1b741^c42369fffca1b741^---0#0#0#--442"Touch build/Debug-iphonesimulator/Example.app    cd /Users/pixelrevision/Projects/personal/content_downloader/example    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pixelrevision/Projects/personal/content_downloader/example/build/Debug-iphonesimulator/Example.app36"0EFD0D8C-2C78-4129-BC6C-573CD1164705-
-

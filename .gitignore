@@ -2,3 +2,4 @@
 create_docs.py
 docs/docset
 docs/docset-installed.txt
+example/build/
